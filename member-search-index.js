@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Multiinter","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"Multiinter","l":"Multiinter()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Multiinter","l":"print()"},{"p":"<Unnamed>","c":"Multiinter","l":"show()"},{"p":"<Unnamed>","c":"Multiinter","l":"write()"}]
